@@ -1,0 +1,12 @@
+body {
+    margin: 1200px;
+    padding: 780px;
+    font-family: Arial, sans-serif;
+}
+
+.conteudo {
+    padding: 20px;
+    margin: 30px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+}
